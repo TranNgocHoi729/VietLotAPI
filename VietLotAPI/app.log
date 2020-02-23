@@ -1,0 +1,36 @@
+2020-02-23 03:38:01 INFO  BaseConnectionPool:75 - Create Connection pool........................ 
+2020-02-23 03:38:02 INFO  BaseConnectionPool:91 - Start Connection pool in : 15824038821981582403881778 ms .
+2020-02-23 03:38:02 INFO  Services:58 - Start Task schedule at : Sun Feb 23 03:38:00 ICT 2020
+2020-02-23 03:38:02 INFO  VietlotDao:20 - Result VietLot : 
+ Giai Dac Biet : 142
+ Giai Nhat : 148
+ Giai nhi : 555  718  
+ Giai Ba : 830  367  046  
+ Giai Tu : 383  242  878  
+2020-02-23 03:40:06 INFO  BaseConnectionPool:75 - Create Connection pool........................ 
+2020-02-23 03:40:07 INFO  BaseConnectionPool:91 - Start Connection pool in : 15824040074061582404006907 ms .
+2020-02-23 03:40:07 INFO  Services:58 - Start Task schedule at : Sun Feb 23 03:40:00 ICT 2020
+2020-02-23 03:40:07 INFO  VietlotDao:20 - Result VietLot : 
+ Giai Dac Biet : 555
+ Giai Nhat : 261
+ Giai nhi : 136  062  
+ Giai Ba : 860  070  830  
+ Giai Tu : 330  673  371  
+2020-02-23 03:49:12 INFO  BaseConnectionPool:75 - Create Connection pool........................ 
+2020-02-23 03:49:13 INFO  BaseConnectionPool:91 - Start Connection pool in : 15824045531101582404552684 ms .
+2020-02-23 03:49:13 INFO  Services:61 - Start Task schedule at : Sun Feb 23 03:49:00 ICT 2020
+2020-02-23 03:49:13 INFO  VietlotDao:20 - Result VietLot : 
+ Giai Dac Biet : 646
+ Giai Nhat : 278
+ Giai nhi : 424  078  
+ Giai Ba : 703  354  376  
+ Giai Tu : 744  351  675  
+2020-02-23 03:51:24 INFO  BaseConnectionPool:75 - Create Connection pool........................ 
+2020-02-23 03:51:24 INFO  BaseConnectionPool:91 - Start Connection pool in : 15824046849151582404684514 ms .
+2020-02-23 03:51:24 INFO  Services:61 - Start Task schedule at : Sun Feb 23 03:49:00 ICT 2020
+2020-02-23 03:51:25 INFO  VietlotDao:20 - Result VietLot : 
+ Giai Dac Biet : 336
+ Giai Nhat : 115
+ Giai nhi : 151  367  
+ Giai Ba : 461  183  272  
+ Giai Tu : 556  280  331  
